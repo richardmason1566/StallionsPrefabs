@@ -6,7 +6,7 @@
     <property name="ExcludeDistantPOIMesh" value="False"/>
     <property name="ExcludePOICulling" value="False"/>
     <property name="DifficultyTier" value="1"/>
-    <property name="Zoning" value="Commercial,Downtown,Industrial"/>
+    <property name="Zoning" value="Commercial,Downtown,Industrial,Residential"/>
     <property name="YOffset" value="-1"/>
     <property name="DistantPOIYOffset" value="0"/>
     <property name="Condition" value="New"/>
@@ -24,4 +24,6 @@
     <property name="SleeperVolumeGameStageAdjust" value="250,medium,200,200,400,250,medium,350,200,450,medium,medium,medium,medium,350,medium,medium,200,250,350"/>
     <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False"/>
     <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False"/>
+    <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"/>
+    <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"/>
 </prefab>

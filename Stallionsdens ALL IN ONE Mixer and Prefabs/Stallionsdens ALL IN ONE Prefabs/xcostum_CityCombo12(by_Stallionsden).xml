@@ -24,4 +24,6 @@
     <property name="SleeperVolumeGameStageAdjust" value="250,easy,medium,350,250,400,250,medium,400,250"/>
     <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False"/>
     <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False"/>
+    <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0"/>
+    <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0"/>
 </prefab>
