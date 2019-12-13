@@ -687,5 +687,11 @@
 	<property name="FilterTags" value="floot"/>  
 </block>
 <!-- Vanilla Vehicles -->
+	<block name="museumBlock">
+	<property name="Extends" value="stainlessSteelMaster"/>
+	<property name="CreativeMode" value="Player"/>
+	<property name="SortOrder2" value="0050"/> <!-- SortShape -->
+	<property name="Material" value="Mmuseum_metal"/>
+</block>
 </append>	
 </stallionsden>
