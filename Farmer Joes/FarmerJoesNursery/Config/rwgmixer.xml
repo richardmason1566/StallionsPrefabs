@@ -1,0 +1,25 @@
+﻿<stallionsden>
+  <!-- Adds My prefab to the prefab_rule of each group -->
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='commercialGroup']">    
+        <prefab name="../../Mods/FarmerJoesNursery/Prefabs/xcostum_FarmerJoesNursery(by_Stallionsden)" prob="0.05"/>
+    </append>
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='downtownGroup']">    
+        <prefab name="../../Mods/FarmerJoesNursery/Prefabs/xcostum_FarmerJoesNursery(by_Stallionsden)" prob="0.05"/>
+    </append>
+   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrialGroup']">    
+        <prefab name="../../Mods/FarmerJoesNursery/Prefabs/xcostum_FarmerJoesNursery(by_Stallionsden)" prob="0.05"/>
+    </append>
+  
+   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">    
+        <prefab name="../../Mods/FarmerJoesNursery/Prefabs/xcostum_FarmerJoesNursery(by_Stallionsden)" prob="0.05"/>
+    </append>
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">    
+        <prefab name="../../Mods/FarmerJoesNursery/Prefabs/xcostum_FarmerJoesNursery(by_Stallionsden)" prob="0.05"/>
+    </append>
+   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='townGroup']">    
+        <prefab name="../../Mods/FarmerJoesNursery/Prefabs/xcostum_FarmerJoesNursery(by_Stallionsden)" prob="0.05"/>
+    </append>
+   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='storeGroup']">    
+        <prefab name="../../Mods/FarmerJoesNursery/Prefabs/xcostum_FarmerJoesNursery(by_Stallionsden)" prob="0.05"/>
+    </append>
+  </stallionsden>

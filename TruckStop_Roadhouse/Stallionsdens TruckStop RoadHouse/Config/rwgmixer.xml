@@ -1,0 +1,26 @@
+﻿<stallionsden>
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='commercialGroup']">    
+        <prefab name="../../Mods/Stallionsdens TruckStop RoadHouse/Prefabs/xcostum_TruckStop_Roadhouse(by_stallionsden)" prob="0.05"/>
+    </append>
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='downtownGroup']">    
+        <prefab name="../../Mods/Stallionsdens TruckStop RoadHouse/Prefabs/xcostum_TruckStop_Roadhouse(by_stallionsden)" prob="0.05"/>
+    </append>
+	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrialGroup']">    
+        <prefab name="../../Mods/Stallionsdens TruckStop RoadHouse/Prefabs/xcostum_TruckStop_Roadhouse(by_stallionsden)" prob="0.05"/>
+    </append>
+	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">    
+        <prefab name="../../Mods/Stallionsdens TruckStop RoadHouse/Prefabs/xcostum_TruckStop_Roadhouse(by_stallionsden)" prob="0.05"/>
+    </append>
+	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">    
+        <prefab name="../../Mods/Stallionsdens TruckStop RoadHouse/Prefabs/xcostum_TruckStop_Roadhouse(by_stallionsden)" prob="0.05"/>
+    </append>
+	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='townGroup']">    
+        <prefab name="../../Mods/Stallionsdens TruckStop RoadHouse/Prefabs/xcostum_TruckStop_Roadhouse(by_stallionsden)" prob="0.05"/>
+    </append>
+	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='diner_FastfoodGroup']">    
+        <prefab name="../../Mods/Stallionsdens TruckStop RoadHouse/Prefabs/xcostum_TruckStop_Roadhouse(by_stallionsden)" prob="0.05"/>
+    </append>
+	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='storeGroup']">    
+        <prefab name="../../Mods/Stallionsdens TruckStop RoadHouse/Prefabs/xcostum_TruckStop_Roadhouse(by_stallionsden)" prob="0.05"/>
+    </append>
+ </stallionsden>
