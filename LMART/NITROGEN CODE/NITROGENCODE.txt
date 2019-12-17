@@ -1,0 +1,6 @@
+LMART,DOWNTOWN;COMMERCIAL;INDUSTRIAL;RESIDENTIALNEW;RESIDENTIAL,2,-5,60,20,57,houses;smalltown;downtown;industrial;citycenter;alone
+
+
+
+
+
