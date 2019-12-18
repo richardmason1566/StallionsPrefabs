@@ -1,0 +1,1 @@
+LMARTRoadHouseTruckstop,DOWNTOWN;COMMERCIAL;INDUSTRIAL;RESIDENTIALNEW;RESIDENTIAL,2,-5,64,29,116,houses;smalltown;downtown;industrial;citycenter;alone
