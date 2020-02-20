@@ -24,8 +24,9 @@
 		   <prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Garage(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
-		   
-		   
+		   <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='downtownGroup']">
@@ -52,6 +53,9 @@
 		   <prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Garage(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		    <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrialGroup']">
@@ -78,6 +82,9 @@
 		   <prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Garage(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		    <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">
@@ -109,9 +116,12 @@
 	  <prefab name="xcostum_NFLStadium_zombies(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 	  <prefab name="xcostum_A17Racetrack(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 	  <prefab name="xcostum_FarmerJoesNursery(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
-		   <prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
-		   <prefab name="xcostum_TruckStop_Garage(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
-		   <prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_TruckStop_Garage(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
+      <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">
@@ -145,7 +155,10 @@
 	 <prefab name="xcostum_FarmerJoesNursery(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 	 <prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 	 <prefab name="xcostum_TruckStop_Garage(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
-	 <prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>    
+	 <prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/> 
+      <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>	 
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrial_Bldgs']">
@@ -172,6 +185,9 @@
 		   <prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Garage(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		    <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='townGroup']">
@@ -198,6 +214,9 @@
 		   <prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Garage(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		    <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
    <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='residentialOldGroup']">
@@ -228,6 +247,9 @@
 	 <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 	 <prefab name="xcostum_TruckStop_Garage(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		    <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='storeGroup']">
@@ -246,6 +268,9 @@
 		   <prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Garage(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		    <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
 		</append>  
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='oldResidential_Bldgs']">
