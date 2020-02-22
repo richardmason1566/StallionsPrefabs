@@ -27,6 +27,7 @@
 		   <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="StallionsdensAFPBuilding" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='downtownGroup']">
@@ -56,6 +57,7 @@
 		    <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="StallionsdensAFPBuilding" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrialGroup']">
@@ -85,6 +87,7 @@
 		    <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="StallionsdensAFPBuilding" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">
@@ -122,6 +125,7 @@
 	  <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
       <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
 	  <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="StallionsdensAFPBuilding" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">
@@ -159,6 +163,7 @@
       <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>	 
+		   <prefab name="StallionsdensAFPBuilding" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrial_Bldgs']">
@@ -188,6 +193,7 @@
 		    <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="StallionsdensAFPBuilding" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='townGroup']">
@@ -217,6 +223,7 @@
 		    <prefab name="LMART" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouse" min_count="1" max_count="1" prob="0.05"/>
 		   <prefab name="LMARTRoadHouseTruckstop" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="StallionsdensAFPBuilding" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
    <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='residentialOldGroup']">
