@@ -1,0 +1,87 @@
+<stallionsden>
+	<append xpath="/blocks">
+	<block name="spawnTrader1">
+    <property name="Extends" value="metalTrussingRampOld" param1="DescriptionKey"/>
+    <property name="CustomIcon" value="metalTrussingRampOld"/>
+    <property name="CreativeMode" value="Dev"/> 
+    <property name="Class" value="SpawnEntity"/>
+    <property name="StabilitySupport" value="false"/>
+    <property name="Shape" value="ModelEntity"/>
+    <property name="Mesh" value="models"/>
+    <property name="Model" value="Entities/Electrical/battery_bankPrefab"/> <property name="HandleFace" value="Bottom"/>
+    <property name="SpawnClass" value="npcTraderJoel"/>
+    <property name="FilterTags" value="fdesign"/>
+    <property name="Collide" value="sight"/>
+</block>
+
+	<block name="spawnTrader2">
+    <property name="Extends" value="metalTrussingRampOld" param1="DescriptionKey"/>
+    <property name="CustomIcon" value="metalTrussingRampOld"/>
+    <property name="CreativeMode" value="Dev"/> 
+    <property name="Class" value="SpawnEntity"/>
+    <property name="StabilitySupport" value="false"/>
+    <property name="Shape" value="ModelEntity"/>
+    <property name="Mesh" value="models"/>
+    <property name="Model" value="Entities/Electrical/battery_bankPrefab"/> <property name="HandleFace" value="Bottom"/>
+    <property name="SpawnClass" value="npcTraderRekt"/>
+    <property name="FilterTags" value="fdesign"/>
+    <property name="Collide" value="sight"/>
+</block>
+
+	<block name="spawnTrader3">
+    <property name="Extends" value="metalTrussingRampOld" param1="DescriptionKey"/>
+    <property name="CustomIcon" value="metalTrussingRampOld"/>
+    <property name="CreativeMode" value="Dev"/> 
+    <property name="Class" value="SpawnEntity"/>
+    <property name="StabilitySupport" value="false"/>
+    <property name="Shape" value="ModelEntity"/>
+    <property name="Mesh" value="models"/>
+    <property name="Model" value="Entities/Electrical/battery_bankPrefab"/> <property name="HandleFace" value="Bottom"/>
+    <property name="SpawnClass" value="npcTraderHugh"/>
+    <property name="FilterTags" value="fdesign"/>
+    <property name="Collide" value="sight"/>
+</block>
+
+	<block name="spawnTrader4">
+    <property name="Extends" value="metalTrussingRampOld" param1="DescriptionKey"/>
+    <property name="CustomIcon" value="metalTrussingRampOld"/>
+    <property name="CreativeMode" value="Dev"/> 
+    <property name="Class" value="SpawnEntity"/>
+    <property name="StabilitySupport" value="false"/>
+    <property name="Shape" value="ModelEntity"/>
+    <property name="Mesh" value="models"/>
+    <property name="Model" value="Entities/Electrical/battery_bankPrefab"/> <property name="HandleFace" value="Bottom"/>
+    <property name="SpawnClass" value="npcTraderBob"/>
+    <property name="FilterTags" value="fdesign"/>
+    <property name="Collide" value="sight"/>
+</block>
+
+	<block name="spawnTrader5">
+    <property name="Extends" value="metalTrussingRampOld" param1="DescriptionKey"/>
+    <property name="CustomIcon" value="metalTrussingRampOld"/>
+    <property name="CreativeMode" value="Dev"/> 
+    <property name="Class" value="SpawnEntity"/>
+    <property name="StabilitySupport" value="false"/>
+    <property name="Shape" value="ModelEntity"/>
+    <property name="Mesh" value="models"/>
+    <property name="Model" value="Entities/Electrical/battery_bankPrefab"/> <property name="HandleFace" value="Bottom"/>
+    <property name="SpawnClass" value="npcTraderJen"/>
+    <property name="FilterTags" value="fdesign"/>
+    <property name="Collide" value="sight"/>
+</block>
+
+	<!--<block name="spawnTrader5">
+    <property name="Extends" value="metalTrussingRampOld" param1="DescriptionKey"/>
+    <property name="CustomIcon" value="metalTrussingRampOld"/>
+    <property name="CreativeMode" value="Dev"/> 
+    <property name="Class" value="SpawnEntity"/>
+    <property name="StabilitySupport" value="false"/>
+    <property name="Shape" value="ModelEntity"/>
+    <property name="Mesh" value="models"/>
+    <property name="Model" value="Entities/Electrical/battery_bankPrefab"/> <property name="HandleFace" value="Bottom"/>
+    <property name="SpawnClass" value="npcTraderJen"/>
+    <property name="FilterTags" value="fdesign"/>
+    <property name="Collide" value="sight"/>
+</block>-->
+	</append>
+</stallionsden>

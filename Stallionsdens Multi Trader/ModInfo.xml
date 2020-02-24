@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Stallionsdens Multi Trader" />
+        <Description value="Adds multiple Traders." />
+        <Author value="stallionsden" />
+        <Version value="A18.3" />
+    </ModInfo>
+</xml>
