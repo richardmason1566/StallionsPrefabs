@@ -23,15 +23,15 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="11041305" />
-    <property name="TotalTriangles" value="10974306" />
+    <property name="TotalVertices" value="12026015" />
+    <property name="TotalTriangles" value="11884728" />
     <property class="BlockEntities">
-      <property name="Vertices" value="6789622" />
-      <property name="Triangles" value="8248593" />
+      <property name="Vertices" value="7822548" />
+      <property name="Triangles" value="9196231" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="3263541" />
-      <property name="Triangles" value="2021356" />
+      <property name="Vertices" value="3276061" />
+      <property name="Triangles" value="2024148" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="373120" />
@@ -42,12 +42,12 @@
       <property name="Triangles" value="59384" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="38768" />
-      <property name="Triangles" value="19448" />
+      <property name="Vertices" value="38748" />
+      <property name="Triangles" value="19438" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="387004" />
-      <property name="Triangles" value="250541" />
+      <property name="Vertices" value="326288" />
+      <property name="Triangles" value="210543" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="880" />
@@ -68,6 +68,14 @@
     <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="155, 1, 143" />
+    </property>
+    <property class="Trader">
+      <property name="0" value="145, 17, 73" />
     </property>
   </property>
 </prefab>

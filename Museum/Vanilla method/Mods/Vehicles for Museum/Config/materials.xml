@@ -1,0 +1,14 @@
+<stallionsden>
+<append xpath="/materials">
+<material id="Mmuseum_metal">
+	<property name="damage_category" value="metal" />
+	<property name="surface_category" value="metal" />
+	<property name="forge_category" value="iron" />
+	<property name="Hardness" type="float" value="10000" />
+	<property name="stepsound" value="metal" />
+	<property name="stability_glue" value="40000" />
+	<property name="Mass" type="int" value="200" />
+	<property name="MaxDamage" value="1000" />
+</material>
+</append>
+</stallionsden>

@@ -1,18 +1,6 @@
 ﻿<stallionsden>
   <!-- Adds My Museum to the prefab_rule of each group -->
-  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='commercialGroup']">    
-        <prefab name="../../Mods/Museum/Prefabs/tonyMuseum" prob="0.3"/>
-    </append>
-   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='downtownGroup']">    
-        <prefab name="../../Mods/Museum/Prefabs/tonyMuseum" prob="0.3"/>
-    </append>
-   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">    
-        <prefab name="../../Mods/Museum/Prefabs/tonyMuseum" prob="0.3"/>
-    </append>
-   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">    
-        <prefab name="../../Mods/Museum/Prefabs/tonyMuseum" prob="0.3"/>
-    </append>
-   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='townGroup']">    
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
         <prefab name="../../Mods/Museum/Prefabs/tonyMuseum" prob="0.3"/>
     </append>
   </stallionsden>

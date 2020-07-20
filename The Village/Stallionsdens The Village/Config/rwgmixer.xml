@@ -1,20 +1,5 @@
 ﻿<stallionsden>
-  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='commercialGroup']">    
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
         <prefab name="../../Mods/Stallionsdens The Village/Prefabs/TheVillage" prob="0.05"/>
     </append>
-  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='downtownGroup']">    
-        <prefab name="../../Mods/Stallionsdens The Village/Prefabs/TheVillage" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrialGroup']">    
-        <prefab name="../../Mods/Stallionsdens The Village/Prefabs/TheVillage" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">    
-        <prefab name="../../Mods/Stallionsdens The Village/Prefabs/TheVillage" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">    
-        <prefab name="../../Mods/Stallionsdens The Village/Prefabs/TheVillage" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='townGroup']">    
-        <prefab name="../../Mods/Stallionsdens The Village/Prefabs/TheVillage" prob="0.05"/>
-    </append>  
-   </stallionsden>
+  </stallionsden>

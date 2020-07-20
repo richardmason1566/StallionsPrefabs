@@ -1,24 +1,6 @@
 ﻿<stallionsden>
   <!-- Adds CityCombo 8 to the prefab_rule of each group -->
-  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='commercialGroup']">    
-        <prefab name="../../Mods/Stallionsdens CityCombo 8/Prefabs/xcostum_CityCombo08(by_Stallionsden)" prob="0.05"/>
-    </append>
-  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='downtownGroup']">    
-        <prefab name="../../Mods/Stallionsdens CityCombo 8/Prefabs/xcostum_CityCombo08(by_Stallionsden)" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrialGroup']">    
-        <prefab name="../../Mods/Stallionsdens CityCombo 8/Prefabs/xcostum_CityCombo08(by_Stallionsden)" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">    
-        <prefab name="../../Mods/Stallionsdens CityCombo 8/Prefabs/xcostum_CityCombo08(by_Stallionsden)" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">    
-        <prefab name="../../Mods/Stallionsdens CityCombo 8/Prefabs/xcostum_CityCombo08(by_Stallionsden)" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='townGroup']">    
-        <prefab name="../../Mods/Stallionsdens CityCombo 8/Prefabs/xcostum_CityCombo08(by_Stallionsden)" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='storeGroup']">    
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
         <prefab name="../../Mods/Stallionsdens CityCombo 8/Prefabs/xcostum_CityCombo08(by_Stallionsden)" prob="0.05"/>
     </append>
   </stallionsden>

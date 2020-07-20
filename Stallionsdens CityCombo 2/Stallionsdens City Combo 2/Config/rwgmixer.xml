@@ -1,24 +1,6 @@
 ﻿<stallionsden>
   <!-- Adds City Combo 2 to the prefab_rule of each group -->
-  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">    
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
         <prefab name="../../Mods/Stallionsdens City Combo 2/Prefabs/xcostum_CityCombo02(by_Stallionsden)" prob="0.05"/>
     </append>
-  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">    
-        <prefab name="../../Mods/Stallionsdens City Combo 2/Prefabs/xcostum_CityCombo02(by_Stallionsden)" prob="0.05"/>
-    </append>
-  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='residentialOldGroup']">    
-        <prefab name="../../Mods/Stallionsdens City Combo 2/Prefabs/xcostum_CityCombo02(by_Stallionsden)" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='residentialNewGroup']">    
-        <prefab name="../../Mods/Stallionsdens City Combo 2/Prefabs/xcostum_CityCombo02(by_Stallionsden)" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='oldResidential_Bldgs']">    
-        <prefab name="../../Mods/Stallionsdens City Combo 2/Prefabs/xcostum_CityCombo02(by_Stallionsden)" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='oldResidential_abandoned_Burnt_Homes']">    
-        <prefab name="../../Mods/Stallionsdens City Combo 2/Prefabs/xcostum_CityCombo02(by_Stallionsden)" prob="0.05"/>
-    </append>
-	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='oldwest_bldgs']">    
-        <prefab name="../../Mods/Stallionsdens City Combo 2/Prefabs/xcostum_CityCombo02(by_Stallionsden)" prob="0.05"/>
-    </append>
-    </stallionsden>
+  </stallionsden>
