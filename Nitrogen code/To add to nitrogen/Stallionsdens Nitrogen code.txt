@@ -1,6 +1,6 @@
 xcostum_PeerCafe(by_Stallionsden),ANY;INDUSTRIAL;RESIDENTIAL,0,-10,97,29,61,alone
 xcostum_ThemePark(by_stallionsden),ANY;COMMERCIAL;DOWNTOWN;INDUSTRIAL;RESIDENTIALNEW;RESIDENTIALOLD;RESIDENTIAL,2,-8,232,87,250,alone;unique
-xcostum_Courthouse(by_stallionsden),DOWNTOWN;RESIDENTIALNEW;RESIDENTIALOLD,1,-8,64,51,47,citycenter
+Courthouse(by_stallionsden),DOWNTOWN;RESIDENTIALNEW;RESIDENTIALOLD,1,-8,64,51,47,citycenter
 xcostum_FarmerJoesNursery(by_Stallionsden),COMMERCIAL;INDUSTRIAL,2,-1,50,18,40,industrial
 xcostum_TruckStop_Garage(by_stallionsden),COMMERCIAL;DOWNTOWN;INDUSTRIAL;RESIDENTIAL,3,-5,45,13,45,carlot
 xcostum_TruckStop_Roadhouse(by_stallionsden),COMMERCIAL;DOWNTOWN;INDUSTRIAL;RESIDENTIAL,1,-5,45,13,45,industrial

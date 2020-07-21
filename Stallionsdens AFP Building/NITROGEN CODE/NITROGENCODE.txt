@@ -1,1 +1,1 @@
-StallionsdensAFPBuilding,DOWNTOWN;COMMERCIAL;INDUSTRIAL,[-11,94,79,78],houses;smalltown;downtown;industrial;citycenter;alone
+StallionsdensAFPBuilding,DOWNTOWN;COMMERCIAL;INDUSTRIAL,-11,94,79,78,houses;smalltown;downtown;industrial;citycenter;alone
