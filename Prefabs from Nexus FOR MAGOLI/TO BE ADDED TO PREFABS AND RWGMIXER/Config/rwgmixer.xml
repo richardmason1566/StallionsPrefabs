@@ -1,0 +1,73 @@
+﻿<configs>
+  <!-- TO BE ADDED TO THE prefabList -->   
+        <prefab name="Chaotic_RPD" prob="0.05" />
+		<prefab name="Doctors_Office" prob="0.05" />
+		<prefab name="DouneCastleRiah" prob="0.05" />
+		<prefab name="fp_house_medium_002_1" prob="0.05" />
+		<prefab name="HarbingerLabs" prob="0.05" />
+		<prefab name="trainstationRiah" prob="0.05" />
+	<!--<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" />
+		<prefab name="PREFABNAME" prob="0.05" /> -->
+     
+	
+	<!-- TO BE ADDED TO THE prefabGroup4k -->
+		<prefab name="Chaotic_RPD" max_count="1" min_repeat_distance="800" />
+		<prefab name="Doctors_Office" max_count="1" min_repeat_distance="800" />
+		<prefab name="DouneCastleRiah" max_count="1" min_repeat_distance="800" />
+		<prefab name="fp_house_medium_002_1" max_count="1" min_repeat_distance="800" />
+		<prefab name="HarbingerLabs" max_count="1" min_repeat_distance="800" />
+		<prefab name="trainstationRiah" max_count="1" min_repeat_distance="800" />
+	<!--<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="800" />-->
+	
+	
+	<!-- TO BE ADDED TO THE prefabGroup8k -->
+		<prefab name="Chaotic_RPD" max_count="1" min_repeat_distance="1000" />
+		<prefab name="Doctors_Office" max_count="1" min_repeat_distance="1000" />
+		<prefab name="DouneCastleRiah" max_count="1" min_repeat_distance="1000" />
+		<prefab name="fp_house_medium_002_1" max_count="1" min_repeat_distance="1000" />
+		<prefab name="HarbingerLabs" max_count="1" min_repeat_distance="1000" />
+		<prefab name="trainstationRiah" max_count="1" min_repeat_distance="1000" />
+	<!--<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />
+		<prefab name="PREFABNAME" max_count="1" min_repeat_distance="1000" />-->
+  </configs>
