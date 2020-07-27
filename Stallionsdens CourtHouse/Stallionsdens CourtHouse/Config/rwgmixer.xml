@@ -1,5 +1,5 @@
 ﻿<stallionsden>
 <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
-        <prefab name="../../Mods/Stallionsdens CourtHouse/Prefabs/Courthouse(by_stallionsden)" prob="0.05"/>
+        <prefab name="Courthouse(by_stallionsden)" prob="0.05"/>
     </append>
 </stallionsden>

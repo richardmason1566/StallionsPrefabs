@@ -1,6 +1,6 @@
 ﻿<stallionsden>
   <!-- Adds My Museum to the prefab_rule of each group -->
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
-        <prefab name="../../Mods/Stallionsdens Multi Trader/Prefabs/StallionsdensTraderCompound" prob="0.3"/>
+        <prefab name="StallionsdensTraderCompound" prob="0.3"/>
     </append>
    </stallionsden>

@@ -1,6 +1,6 @@
 ﻿<stallionsden>
   <!-- Adds My LMART to the prefab_rule of each group -->
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
-        <prefab name="../../Mods/Stallionsdens AFP BUILDING/Prefabs/StallionsdensAFPBuilding.tts" prob="0.05"/>
+        <prefab name="StallionsdensAFPBuilding" prob="0.05"/>
     </append>
    </stallionsden>

@@ -1,5 +1,5 @@
 ﻿<stallionsden>
  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
-        <prefab name="../../Mods/Theme Park/Prefabs/xcostum_ThemePark(by_stallionsden)" prob="0.05"/>
+        <prefab name="xcostum_ThemePark(by_stallionsden)" prob="0.05"/>
     </append>
  </stallionsden>

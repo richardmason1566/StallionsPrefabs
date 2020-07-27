@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
     <ModInfo>
-        <Name value="TonysMuseum" />
+        <Name value="Museum" />
         <Description value="Adds my Museum to the RWGMixer" />
         <Author value="Stallionsden" />
         <Version value="A19" />

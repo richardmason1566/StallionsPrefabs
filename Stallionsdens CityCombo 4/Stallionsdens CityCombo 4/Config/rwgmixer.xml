@@ -1,6 +1,6 @@
 ﻿<stallionsden>
   <!-- Adds CityCombo 4 to the prefab_rule of each group -->
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
-        <prefab name="../../Mods/Stallionsdens CityCombo 4/Prefabs/xcostum_CityCombo04(by_Stallionsden)" prob="0.3"/>
+        <prefab name="xcostum_CityCombo04(by_Stallionsden)" prob="0.3"/>
     </append>
   </stallionsden>
