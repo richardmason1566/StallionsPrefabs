@@ -34,7 +34,7 @@
 		<prefab name="xcostum_Asia_Restaurant_city(by_Redlotus)" prob="0.05"/>
 		<prefab name="xcostum_Asia_Swordmaster(by_magoli)" prob="0.05"/>
 		<prefab name="xcostum_Asia_Temple9Powermonks(by_magoli)" prob="0.05"/>
-		<prefab name="xcostum_Asia_TempleMiddleVillage(by_SylenThunder)(by_SylenThunder)FAB" prob="0.05"/>
+		<prefab name="xcostum_Asia_TempleMiddleVillage(by_SylenThunder)" prob="0.05"/>
 		<prefab name="xcostum_Asylum(by_Wsiegel)" prob="0.05"/>
 		<prefab name="xcostum_Bank(by_Guppycur)" prob="0.05"/>
 		<prefab name="xcostum_Bank(by_Limodor)" prob="0.05"/>
@@ -733,7 +733,7 @@
 		<prefab name="xcostum_Asia_Restaurant_city(by_Redlotus)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_Asia_Swordmaster(by_magoli)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_Asia_Temple9Powermonks(by_magoli)" max_count="1" min_repeat_distance="800" />
-		<prefab name="xcostum_Asia_TempleMiddleVillage(by_SylenThunder)(by_SylenThunder)FAB" max_count="1" min_repeat_distance="800" />
+		<prefab name="xcostum_Asia_TempleMiddleVillage(by_SylenThunder)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_Asylum(by_Wsiegel)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_Bank(by_Guppycur)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_Bank(by_Limodor)" max_count="1" min_repeat_distance="800" />
@@ -1432,7 +1432,7 @@
 		<prefab name="xcostum_Asia_Restaurant_city(by_Redlotus)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Asia_Swordmaster(by_magoli)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Asia_Temple9Powermonks(by_magoli)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_Asia_TempleMiddleVillage(by_SylenThunder)(by_SylenThunder)FAB" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xcostum_Asia_TempleMiddleVillage(by_SylenThunder)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Asylum(by_Wsiegel)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Bank(by_Guppycur)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Bank(by_Limodor)" max_count="1" min_repeat_distance="1000" />
