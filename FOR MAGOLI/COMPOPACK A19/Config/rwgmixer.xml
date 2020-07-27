@@ -1,4 +1,4 @@
-﻿<stallionsden>
+﻿<magoli>
   <!-- Adds COMPOPACK A19 to the prefab_rule of each group -->
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
         <prefab name="xcostum_3BlockStores(by_Leo_Liuos)" prob="0.05"/>
@@ -694,4 +694,4 @@
 		<prefab name="xvanilla_water_tower_02" prob="0.05"/>
 		<prefab name="xvanilla_water_tower_03" prob="0.05"/>		
     </append>  
-  </stallionsden>
+  </magoli>
