@@ -1,7 +1,9 @@
 ﻿<magoli>
   <!-- Adds COMPOPACK A19 to the PREFAB LIST of each group -->
   <!-- UNCOMMENT SECTION YOU WISH TO USE/COMMENT OUT SECTIONS YOU DONT WISH TO USE -->
-  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
+			<!-- ONLY USE ONE VERSION -->
+			<!-- PREFABLIST GENERAL -->
+		<!--<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabList']">    
         <prefab name="xcostum_3BlockStores(by_Leo_Liuos)" prob="0.05"/>
 		<prefab name="xcostum_4Apartments(by_TopMinder)" prob="0.05"/>
 		<prefab name="xcostum_7EndStore(by_Jackelmyer)" prob="0.05"/>
@@ -333,13 +335,13 @@
 		<prefab name="xcostum_TruckStop_Garage(by_stallionsden)" prob="0.3"/>
 		<prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" prob="0.3"/>
 		<prefab name="xcostum_LMARTRoadHouseTruckstop(by_stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_StallionsdensAFPBuilding(by_stallionsden)" prob="0.3"/>
+		<prefab name="xcostum_StallionsdensAFPBuilding(by_stallionsden)" prob="0.3"/>-->
 		
 <!-- *********************************************************************** -->
 <!-- ***************   EX VANILLA PREFABS   ******************************** -->
 <!-- *********************************************************************** -->
 
-		<prefab name="xvanilla_abandoned_house_01" prob="0.05"/>
+		<!-- <prefab name="xvanilla_abandoned_house_01" prob="0.05"/>
 		<prefab name="xvanilla_abandoned_house_02" prob="0.05"/>
 		<prefab name="xvanilla_abandoned_house_03" prob="0.05"/>
 		<prefab name="xvanilla_abandoned_house_04" prob="0.05"/>
@@ -695,11 +697,14 @@
 		<prefab name="xvanilla_water_tower_01" prob="0.05"/>
 		<prefab name="xvanilla_water_tower_02" prob="0.05"/>
 		<prefab name="xvanilla_water_tower_03" prob="0.05"/>		
-    </append> 
-
+    </append> -->
+				<!-- PREFABLIST GENERAL -->
 <!-- *************************************************************************************************************** -->
 <!-- **************ADDS TO THE 4K GROUP PREFABLIST AND CAN SET DISTANCE FROM THE NEXT POI*************************** -->
 <!-- *************************************************************************************************************** -->
+
+					<!-- PREFAB GROUP 4K -->
+
  <!--  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabGroup4k']">    
        	<prefab name="xcostum_3BlockStores(by_Leo_Liuos)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_4Apartments(by_TopMinder)" max_count="1" min_repeat_distance="800" />
@@ -1396,10 +1401,15 @@
 		<prefab name="xvanilla_water_tower_03" max_count="1" min_repeat_distance="800" />		
     </append>-->
 	
+						<!-- PREFAB GROUP 4K -->
+	
 <!-- *************************************************************************************************************** -->
 <!-- **************ADDS TO THE 8K GROUP PREFABLIST AND CAN SET DISTANCE FROM THE NEXT POI*************************** -->
 <!-- *************************************************************************************************************** -->
-<!--<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabGroup8k']">    
+
+						<!-- PREFAB GROUP 8K -->
+
+		<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='prefabGroup8k']">    
         <prefab name="xcostum_3BlockStores(by_Leo_Liuos)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_4Apartments(by_TopMinder)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_7EndStore(by_Jackelmyer)" max_count="1" min_repeat_distance="1000" />
@@ -1473,7 +1483,6 @@
 		<prefab name="xcostum_Coronado_farmSheds(by_Slaan)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Coronado_shamway_plant(by_Slaan)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_CountyJail(by_Volar)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_Courthouse(by_stallionsden)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_CrashedAirplane(by_LazMan)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_crematory(by_magoli)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_CurlingCenter(by_magoli)" max_count="1" min_repeat_distance="1000" />
@@ -1491,7 +1500,6 @@
 		<prefab name="xcostum_exfarmstead(by_owl79)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Experimentalhouse(by_TopMinder)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Farm(by_BigC90210)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_FarmerJoesNursery(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Firedepartment(by_Guppycur)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Firehouse(by_Warsaken)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Firestation(by_Slick50)" max_count="1" min_repeat_distance="1000" />
@@ -1563,8 +1571,6 @@
 		<prefab name="xcostum_Library(by_War3zuk)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Lighthouse(by_NAGG)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_LittleLeagueBaseball(by_Curmudgeon)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_LMART_Garage(byStallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_LMART_RoadHouse(byStallionsden)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Lost_Joels(pseudo-trader)(by_DMC)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_LumberMill(by_IceJudge)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Mall(by_hernanxx)" max_count="1" min_repeat_distance="1000" />
@@ -1603,7 +1609,6 @@
 		<prefab name="xcostum_Pantilehouse(by_TopMinder)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Park(by_Guppycur)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Pawnshop(by_magoli)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_PeerCafe(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_PersianMansion(by_saeid)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_PetStore(by_Jackelmyer)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_pistol_gunshop(by_magoli)" max_count="1" min_repeat_distance="1000" />
@@ -1665,7 +1670,6 @@
 		<prefab name="xcostum_TacoBele(by_Swolk)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Tank_Garage(by_LuckyStar)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Tavern(by_Limodor)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_ThemePark(by_stallionsden)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_TheMill(by_MoNKeYest1)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_TheSect_Followers-of-M(by_magoli)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_TheSphinx3(by_Andyjoki)" max_count="1" min_repeat_distance="1000" />
@@ -1686,7 +1690,6 @@
 		<prefab name="xcostum_TV_Tower_Restaurant(by_magoli)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_UnionStation(by_BuLLeTZ)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Utility_Combo(by_LuckyStar)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Villa(by_Limodor)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Villa(by_TopMinder)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_Walcart(by_Swolk)" max_count="1" min_repeat_distance="1000" />
@@ -1704,39 +1707,11 @@
 		<prefab name="xcostum_WWHouse(by_IceJudge)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_ZHigh(by_Volar)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_ZombieZoo(by_Wsiegel)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_HotelDeStallion(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_StallsCasino(by_stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_TheVillage(by_stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_Area51(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo01(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo02(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo03(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo04(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo05(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo06(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo07(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo08(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo09(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo10(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo11(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo12(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo13(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo14(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo15(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo16(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo17(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_CityCombo18(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_NFLStadium_zombies(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_A17Racetrack(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_TruckStop_Garage(by_stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_LMARTRoadHouseTruckstop(by_stallionsden)" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xcostum_StallionsdensAFPBuilding(by_stallionsden)" max_count="1" min_repeat_distance="1000" /> -->
 		
 <!-- *********************************************************************** -->
 <!-- ***************   EX VANILLA PREFABS   ******************************** -->
 <!-- *********************************************************************** -->
-		<!-- <prefab name="xvanilla_abandoned_house_01" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xvanilla_abandoned_house_01" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xvanilla_abandoned_house_02" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xvanilla_abandoned_house_03" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xvanilla_abandoned_house_04" max_count="1" min_repeat_distance="1000" />
@@ -2091,9 +2066,12 @@
 		<prefab name="xvanilla_vacant_lot_05" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xvanilla_water_tower_01" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xvanilla_water_tower_02" max_count="1" min_repeat_distance="1000" />
-		<prefab name="xvanilla_water_tower_03" max_count="1" min_repeat_distance="1000" />		
-    </append>-->
+		<prefab name="xvanilla_water_tower_03" max_count="1" min_repeat_distance="1000" />	
+
+						<!-- PREFAB GROUP 8K -->
+		
 <!-- ***************************************************************************************************** -->
 <!-- ***************************************************************************************************** -->
 <!-- ***************************************************************************************************** -->
+ </append>
   </magoli>
