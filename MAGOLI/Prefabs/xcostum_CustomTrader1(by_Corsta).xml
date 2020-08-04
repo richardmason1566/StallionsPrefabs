@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True" />
+    <property name="ExcludeDistantPOIMesh" value="False" />
+    <property name="ExcludePOICulling" value="True" />
+    <property name="DistantPOIYOffset" value="0" />
+    <property name="AllowTopSoilDecorations" value="False" />
+    <property name="DifficultyTier" value="1" />
+    <property name="TraderArea" value="True" />
+    <property name="RotationToFaceNorth" value="1" />
+    <property name="TraderAreaTeleportSize" value="15, 15, 15" />
+    <property name="TraderAreaTeleportCenter" value="0, 0, 0" />
+    <property name="YOffset" value="-1" />
+	<property name="Zoning" value="any" />
+	<property name="AllowedTownships" value="city,town,rural,wilderness" />
+	<property name="TraderAreaProtect" value="20,0,20" />
+	<property name="QuestTags" value="trader" />
+	<property name="EditorGroups" value="settlements" />
+</prefab>
