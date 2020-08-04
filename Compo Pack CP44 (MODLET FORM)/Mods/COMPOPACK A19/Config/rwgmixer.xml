@@ -300,43 +300,56 @@
 		<prefab name="xcostum_WWHouse(by_IceJudge)" prob="0.05"/>
 		<prefab name="xcostum_ZHigh(by_Volar)" prob="0.05"/>
 		<prefab name="xcostum_ZombieZoo(by_Wsiegel)" prob="0.05"/>
-		<prefab name="xcostum_Bills_1(by_Theodryck)" prob="0.3"/>
-		<prefab name="xcostum_forest_BM_01(by_Fleshus)" prob="0.3"/>
-		<prefab name="xcostum_fp_house_medium_002_1(by_FrankSouza)" prob="0.3"/>
-		<prefab name="xcostum_greenhouse_01(by_Fleshus)" prob="0.3"/>
-		<prefab name="xcostum_serial_killer_01(by_Fleshus)" prob="0.3"/>
-		<prefab name="xcostum_Subway(by_NAGGcommunity)" prob="0.3"/>
-		<prefab name="xcostum_UFO(by_NAGGcommunity)" prob="0.3"/>
-		<prefab name="xcostum_watchtower_01(by_Fleshus)" prob="0.3"/>
-		<prefab name="xcostum_watchtower_02(by_Fleshus)" prob="0.3"/>		
-		<prefab name="xcostum_HotelDeStallion(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_Bills_1(by_Theodryck)" prob="0.05"/>
+		<prefab name="xcostum_forest_BM_01(by_Fleshus)" prob="0.05"/>
+		<prefab name="xcostum_fp_house_medium_002_1(by_FrankSouza)" prob="0.05"/>
+		<prefab name="xcostum_greenhouse_01(by_Fleshus)" prob="0.05"/>
+		<prefab name="xcostum_serial_killer_01(by_Fleshus)" prob="0.05"/>
+		<prefab name="xcostum_Subway(by_NAGGcommunity)" prob="0.05"/>
+		<prefab name="xcostum_UFO(by_NAGGcommunity)" prob="0.05"/>
+		<prefab name="xcostum_watchtower_01(by_Fleshus)" prob="0.05"/>
+		<prefab name="xcostum_watchtower_02(by_Fleshus)" prob="0.05"/>
+		<prefab name="xcostum_house_suburb_01_(by_LazMans)" prob="0.05"/>		
+		<prefab name="xcostum_Chaotic_RPD(by_ChaoticCreative)" prob="0.05" />
+		<prefab name="xcostum_CustomTrader1(by_Corsta)" prob="0.05" />
+		<prefab name="xcostum_Cyberdyne(by_SevenSaryns)" prob="0.05" />
+		<prefab name="xcostum_Doctors_Office(by_Bostonlondon)" prob="0.05" />
+		<prefab name="xcostum_DouneCastleRiah(by_RiahsaurusRex)" prob="0.05" />
+		<prefab name="xcostum_HarbingerLabs(by_RiahsaurusRex)" prob="0.05" />
+		<prefab name="xcostum_Mall_DOD(by_CaptainWhiskerBiscuitsandMentalNinja33)" prob="0.05" />
+		<prefab name="xcostum_SuperAircraftCarrier(by_Naz)" prob="0.05" />
+		<prefab name="xcostum_trainstationRiah(by_RiahsaurusRex)" prob="0.05" />
+		-->
+		
+<!-- ************************ MY PREFABS ************************************-->
+		<!--<prefab name="xcostum_HotelDeStallion(by_Stallionsden)" prob="0.05"/>
 		<prefab name="xcostum_StallsCasino(by_stallionsden)" prob="0.05"/>
 		<prefab name="xcostum_TheVillage(by_stallionsden)" prob="0.05"/>
 		<prefab name="xcostum_Area51(by_Stallionsden)" prob="0.05"/>
-		<prefab name="xcostum_CityCombo01(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo02(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo03(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo04(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo05(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo06(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo07(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo08(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo09(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo10(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo11(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo12(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo13(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo14(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo15(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo16(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo17(by_Stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_CityCombo18(by_Stallionsden)" prob="0.3"/>
+		<prefab name="xcostum_CityCombo01(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo02(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo03(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo04(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo05(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo06(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo07(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo08(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo09(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo10(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo11(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo12(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo13(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo14(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo15(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo16(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo17(by_Stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_CityCombo18(by_Stallionsden)" prob="0.05"/>
 		<prefab name="xcostum_NFLStadium_zombies(by_Stallionsden)" prob="0.05"/>
 		<prefab name="xcostum_A17Racetrack(by_Stallionsden)" prob="0.05"/>
-		<prefab name="xcostum_TruckStop_Garage(by_stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_LMARTRoadHouseTruckstop(by_stallionsden)" prob="0.3"/>
-		<prefab name="xcostum_StallionsdensAFPBuilding(by_stallionsden)" prob="0.3"/>
+		<prefab name="xcostum_TruckStop_Garage(by_stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_LMARTRoadHouseTruckstop(by_stallionsden)" prob="0.05"/>
+		<prefab name="xcostum_StallionsdensAFPBuilding(by_stallionsden)" prob="0.05"/>
 		<prefab name="xcostum_Courthouse(by_stallionsden)" prob="0.05"/>
 		<prefab name="xcostum_CourthouseOLD(by_stallionsden)" prob="0.05"/>
 		<prefab name="xcostum_FarmerJoesNursery(by_Stallionsden)" prob="0.05"/>
@@ -344,8 +357,9 @@
 		<prefab name="xcostum_LMART_RoadHouse(byStallionsden)" prob="0.05"/>
 		<prefab name="xcostum_PeerCafe(by_Stallionsden)" prob="0.05"/>
 		<prefab name="xcostum_ThemePark(by_stallionsden)" prob="0.05"/>
-		<prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" prob="0.05"/>	-->
-		
+		<prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" prob="0.05"/>-->
+		<!-- ************************ MY PREFABS ************************************-->
+				
 <!-- *********************************************************************** -->
 <!-- ***************   EX VANILLA PREFABS   ******************************** -->
 <!-- *********************************************************************** -->
@@ -1021,6 +1035,18 @@
 		<prefab name="xcostum_UFO(by_NAGGcommunity)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_watchtower_01(by_Fleshus)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_watchtower_02(by_Fleshus)" max_count="1" min_repeat_distance="800" />
+		<prefab name="xcostum_house_suburb_01_(by_LazMans)" max_count="1" min_repeat_distance="800" />
+		<prefab name="xcostum_Chaotic_RPD(by_ChaoticCreative)" max_count="1" min_repeat_distance="800" />
+		<prefab name="xcostum_CustomTrader1(by_Corsta)" max_count="1" min_repeat_distance="800" />
+		<prefab name="xcostum_Cyberdyne(by_SevenSaryns)" max_count="1" min_repeat_distance="800" />
+		<prefab name="xcostum_Doctors_Office(by_Bostonlondon)" max_count="1" min_repeat_distance="800" />
+		<prefab name="xcostum_DouneCastleRiah(by_RiahsaurusRex)" max_count="1" min_repeat_distance="800" />
+		<prefab name="xcostum_HarbingerLabs(by_RiahsaurusRex)" max_count="1" min_repeat_distance="800" />
+		<prefab name="xcostum_Mall_DOD(by_CaptainWhiskerBiscuitsandMentalNinja33)" max_count="1" min_repeat_distance="800" />
+		<prefab name="xcostum_SuperAircraftCarrier(by_Naz)" max_count="1" min_repeat_distance="800" />
+		<prefab name="xcostum_trainstationRiah(by_RiahsaurusRex)" max_count="1" min_repeat_distance="800" />
+		
+		<!-- ************************ MY PREFABS ************************************-->
 		<prefab name="xcostum_Courthouse(by_stallionsden)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_CourthouseOLD(by_stallionsden)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_FarmerJoesNursery(by_Stallionsden)" max_count="1" min_repeat_distance="800" />
@@ -1057,7 +1083,7 @@
 		<prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_LMARTRoadHouseTruckstop(by_stallionsden)" max_count="1" min_repeat_distance="800" />
 		<prefab name="xcostum_StallionsdensAFPBuilding(by_stallionsden)" max_count="1" min_repeat_distance="800" />	
-		
+		<!-- ************************ MY PREFABS ************************************-->
 		
 <!-- *********************************************************************** -->
 <!-- ***************   EX VANILLA PREFABS   ******************************** -->
@@ -1736,6 +1762,19 @@
 		<prefab name="xcostum_UFO(by_NAGGcommunity)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_watchtower_01(by_Fleshus)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_watchtower_02(by_Fleshus)" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xcostum_house_suburb_01_(by_LazMans)" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xcostum_Chaotic_RPD(by_ChaoticCreative)" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xcostum_CustomTrader1(by_Corsta)" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xcostum_Cyberdyne(by_SevenSaryns)" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xcostum_Doctors_Office(by_Bostonlondon)" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xcostum_DouneCastleRiah(by_RiahsaurusRex)" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xcostum_HarbingerLabs(by_RiahsaurusRex)" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xcostum_Mall_DOD(by_CaptainWhiskerBiscuitsandMentalNinja33)" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xcostum_SuperAircraftCarrier(by_Naz)" max_count="1" min_repeat_distance="1000" />
+		<prefab name="xcostum_trainstationRiah(by_RiahsaurusRex)" max_count="1" min_repeat_distance="1000" />
+		
+		
+		<!-- ************************ MY PREFABS ************************************-->
 		<prefab name="xcostum_HotelDeStallion(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_StallsCasino(by_stallionsden)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_TheVillage(by_stallionsden)" max_count="1" min_repeat_distance="1000" />
@@ -1772,7 +1811,7 @@
 		<prefab name="xcostum_PeerCafe(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_ThemePark(by_stallionsden)" max_count="1" min_repeat_distance="1000" />
 		<prefab name="xcostum_VarietiesDepartmentStore(by_Stallionsden)" max_count="1" min_repeat_distance="1000" />
-		
+		<!-- ************************ MY PREFABS ************************************-->
 <!-- *********************************************************************** -->
 <!-- ***************   EX VANILLA PREFABS   ******************************** -->
 <!-- *********************************************************************** -->
